@@ -1,4 +1,3 @@
-
 # Citibike Demand Analysis & Dynamic Pricing Recommendation
 
 ## Overview
@@ -58,3 +57,25 @@ This project explores New York City’s Citibike trip data to uncover demand pat
 ---
 
 *Built with curiosity, data, and bikes 🚲*
+
+---
+
+## 📽️ Slide Deck
+
+You can view the presentation slide deck summarizing key findings, forecasting models, and pricing strategy here:
+
+➡️ [View Slide Deck](https://docs.google.com/presentation/d/18oywkYtk0Yk10mhxxh1atYqWsq3Jd_oc/edit?slide=id.p1#slide=id.p1) 
+
+---
+
+## 🚀 App Demo
+
+Explore the interactive dynamic pricing model and demand visualization via the app below:
+
+➡️ [Launch App](https://citi-bike-pricing-prototype.streamlit.app/)
+
+The app allows users to:
+- Simulate pricing scenarios based on time, demand level, and rider type.
+- Adjust parameters to observe impact on projected ridership and revenue.
+
+---
